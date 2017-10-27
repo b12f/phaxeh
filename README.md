@@ -13,3 +13,15 @@
 5. Implement trading
 6. Implement building
 7. 2D map visualization and interaction
+
+## Resources
+
+#### Hexagonal maps
+
+* https://www.redblobgames.com/grids/hexagons/
+* https://www.redblobgames.com/grids/hexagons/implementation.html
+
+#### Game state 
+
+* http://gameprogrammingpatterns.com/state.html
+* https://en.wikipedia.org/wiki/State_pattern
